@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sanjana Bharadwaj</h1>
 <h3 align="center">Master's student at Virginia Tech</h3>
+<h3 align="center">Go Hokies!</h3>
 
-- 🔭 I’m currently working on **Weight Estimation of Pigs using Deep Learning Methods**
+- 🔭 I’m currently working on **my thesis which revolves around the use of Computer Vision and Deep Learning in the Animal Science field. At present, working on the project of 'Weight Estimation of Pigs using Deep Learning'**
 
 - 🌱 I’m currently learning **Pytorch, AWS**
 
